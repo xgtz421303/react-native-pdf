@@ -127,5 +127,5 @@ dependencies {
     implementation 'com.github.zacharee:AndroidPdfViewer:4.0.1'
     // Depend on PdfiumAndroidKt directly so this can be updated independently of AndroidPdfViewer as updates are provided.
     implementation 'io.legere:pdfiumandroid:1.0.32'
-    implementation 'com.google.code.gson:gson:2.13.1'
+    implementation 'com.google.code.gson:gson:2.11.0'
 }
